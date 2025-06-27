@@ -9,3 +9,6 @@ serviceAccount:
   create: true
   name: ""
 
+service:
+  port: 80
+
